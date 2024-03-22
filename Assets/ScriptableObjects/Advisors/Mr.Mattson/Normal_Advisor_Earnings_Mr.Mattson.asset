@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504e0c1aa41031c4a9e325f6903f948b, type: 3}
+  m_Name: Normal_Advisor_Earnings_Mr.Mattson
+  m_EditorClassIdentifier: 
+  Name: Mr.Mattson
+  Icon: {fileID: 1704367465, guid: 1458c5596815df84798796ea160d680d, type: 3}
+  Type: 0
+  Quality: 1
+  Multiplier: 0.1
+  Description: Increases earnings from stores by 10%
+  Index: 6
+  Bought: 0
+  Selected: 0
+  addedToProfile: 0

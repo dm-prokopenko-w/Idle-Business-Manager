@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164cd0eab68ab4c4a8b3f794c6fa8972, type: 3}
+  m_Name: MysteryShop
+  m_EditorClassIdentifier: 
+  firstFloor: {fileID: 21300000, guid: aee9c1f7e0935894aaee316d71f41771, type: 3}
+  secondFloor: {fileID: 21300000, guid: 14a1b695a4a30ce4bbd9838741b3a65a, type: 3}
+  roofFloor: {fileID: 21300000, guid: 45fd56a690b1e9149962ff9cc60127c0, type: 3}
+  id: MysteryShop
+  name: Mystery Shop
+  icon: {fileID: 21300000, guid: cefaea9281d2e1d409589b2602df1406, type: 3}

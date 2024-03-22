@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164cd0eab68ab4c4a8b3f794c6fa8972, type: 3}
+  m_Name: ArtSupplyStore
+  m_EditorClassIdentifier: 
+  firstFloor: {fileID: 21300000, guid: ad013e322b8a2be44bde9e25042564b4, type: 3}
+  secondFloor: {fileID: 21300000, guid: e75e2b2d978036e47bf64fb434636e93, type: 3}
+  roofFloor: {fileID: 21300000, guid: c67e32d8b4fea0d4cb8e41d9217752f4, type: 3}
+  id: ArtSupplyStore
+  name: Art Supply Store
+  icon: {fileID: 21300000, guid: eaa90e91b507af94aada4c11fda7da20, type: 3}

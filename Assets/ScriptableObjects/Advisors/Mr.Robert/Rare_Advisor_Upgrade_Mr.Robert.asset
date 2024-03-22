@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504e0c1aa41031c4a9e325f6903f948b, type: 3}
+  m_Name: Rare_Advisor_Upgrade_Mr.Robert
+  m_EditorClassIdentifier: 
+  Name: Mr.Robert
+  Icon: {fileID: -1238367829, guid: 6b2b66aac1f2685488e42c5ee4eef278, type: 3}
+  Type: 3
+  Quality: 2
+  Multiplier: 12
+  Description: Reduces business upgrade amount by 12%
+  Index: 12
+  Bought: 0
+  Selected: 0
+  addedToProfile: 0

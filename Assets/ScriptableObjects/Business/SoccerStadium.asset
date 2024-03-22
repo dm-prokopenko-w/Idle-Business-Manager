@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164cd0eab68ab4c4a8b3f794c6fa8972, type: 3}
+  m_Name: SoccerStadium
+  m_EditorClassIdentifier: 
+  firstFloor: {fileID: 21300000, guid: 503c533d20287b74aa76ef69e555f994, type: 3}
+  secondFloor: {fileID: 21300000, guid: 98b72c14c31289e42b899777022aa393, type: 3}
+  roofFloor: {fileID: 21300000, guid: 55032220e95c52344b33c19725cfffb8, type: 3}
+  id: SoccerStadium
+  name: Soccer Stadium
+  icon: {fileID: 21300000, guid: cb7c12edc9436f84aad7814aa10c958d, type: 3}

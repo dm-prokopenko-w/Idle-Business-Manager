@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 164cd0eab68ab4c4a8b3f794c6fa8972, type: 3}
+  m_Name: LawFirm
+  m_EditorClassIdentifier: 
+  firstFloor: {fileID: 21300000, guid: 39d296c669374154d96148f1219a9819, type: 3}
+  secondFloor: {fileID: 21300000, guid: f63d2bec7d473c44f8fe243a80da55c3, type: 3}
+  roofFloor: {fileID: 21300000, guid: f63d2bec7d473c44f8fe243a80da55c3, type: 3}
+  id: LawFirm
+  name: Law Firm
+  icon: {fileID: 21300000, guid: 80d06442ff49cbb4eb33c9649cbd6394, type: 3}

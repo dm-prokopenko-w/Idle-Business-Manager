@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 006a98a0a4161ba46bec9c05890e789c, type: 3}
+  m_Name: Upgrade_Casino_Business 1
+  m_EditorClassIdentifier: 
+  Name: Upgrade Casino II
+  ID: CasinoII
+  Goals: 200
+  Type: 1
+  index: 86
+  Description: Upgrade the Casino 200 times
+  Reward: 3.2348180196222e+51
+  QuestClaimed: 0
+  CurrentProgress: 201
+  questCompleted: 0

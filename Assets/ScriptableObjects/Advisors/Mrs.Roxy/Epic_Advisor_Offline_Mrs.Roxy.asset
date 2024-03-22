@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 504e0c1aa41031c4a9e325f6903f948b, type: 3}
+  m_Name: Epic_Advisor_Offline_Mrs.Roxy
+  m_EditorClassIdentifier: 
+  Name: Mrs.Roxy
+  Icon: {fileID: -1683773511, guid: b8b67fbbc69b4844cb4198dffe678418, type: 3}
+  Type: 2
+  Quality: 3
+  Multiplier: 0.3
+  Description: Increases offline rewards by 30%
+  Index: 19
+  Bought: 0
+  Selected: 0
+  addedToProfile: 0
